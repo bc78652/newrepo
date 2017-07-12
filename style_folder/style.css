@@ -2,18 +2,44 @@
 	color: green;
 }
 
-.orangef {
-	color: orange;
-}
-
-.redf {
-	color: red;
-}
-
-.cewlman {
-	font-weight: bold;
-}
-
-.square {
+h1{
+	width: 50%;
+	margin: 0 25%;
+	text-align: center;
 	
+}
+body{
+	background-image: url(https://media.tenor.com/images/0da98060d66db39af7ab6d82ea84d2e5/tenor.gif);
+}
+
+#big{
+	font-size: 60px
+}
+/* starting nav css */
+nav{
+	position: absolute;
+	right: 10px;
+	background-color: #ffaaff;
+	
+}
+nav ul li:hover {
+	background-color: DarkMagenta;
+	border: 2px solid black;
+}
+nav ul li a:hover {
+	color: black;
+}
+nav ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+nav ul li {
+	float: left;
+}
+nav ul li a {
+	display: block;
+	padding: 0 5px;
+	text-decoration: none;
+	color: white;
 }
