@@ -1,5 +1,8 @@
 .greenf {
-	color: green;
+	color: lightgreen;
+}
+p{
+	color: blue;
 }
 
 h1{
@@ -17,13 +20,14 @@ body{
 }
 /* starting nav css */
 nav{
+	border: dashed;
 	position: absolute;
 	right: 10px;
-	background-color: #ffaaff;
+	background-color: lightgreen;
 	
 }
 nav ul li:hover {
-	background-color: DarkMagenta;
+	background-color: green;
 	border: 2px solid black;
 }
 nav ul li a:hover {
