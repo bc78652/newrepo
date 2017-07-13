@@ -5,7 +5,7 @@ p{
 	color: blue;
 }
 
-h1{
+h1{/*example test for screen display recording software on notepad++*/
 	width: 50%;
 	margin: 0 25%;
 	text-align: center;
@@ -14,7 +14,7 @@ h1{
 body{
 	background-image: url(https://media.tenor.com/images/0da98060d66db39af7ab6d82ea84d2e5/tenor.gif);
 }
-
+/*example test for screen display recording software on notepad++*/
 #big{
 	font-size: 60px
 }
