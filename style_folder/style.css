@@ -5,7 +5,7 @@ p{
 	color: blue;
 }
 
-h1{/*example test for screen display recording software on notepad++*/
+h1{
 	width: 50%;
 	margin: 0 25%;
 	text-align: center;
@@ -24,7 +24,7 @@ nav{
 	position: absolute;
 	right: 10px;
 	background-color: lightgreen;
-	
+
 }
 nav ul li:hover {
 	background-color: green;
